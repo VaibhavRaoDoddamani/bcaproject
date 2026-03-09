@@ -115,7 +115,7 @@ body {
       rgba(255, 255, 255, 0.85),
       rgba(255, 255, 255, 0.85)
     ),
-    url("images/shop.png") no-repeat center center/cover;
+    url("shop.png") no-repeat center center/cover;
 }
 body {
   height: 100vh;
@@ -123,6 +123,7 @@ body {
       rgba(255, 255, 255, 0.6),
       rgba(255, 255, 255, 0.6)
     ),
-    url("images/shop.png") no-repeat center center/cover;
+    url("shop.png") no-repeat center center/cover;
 }
+
 
