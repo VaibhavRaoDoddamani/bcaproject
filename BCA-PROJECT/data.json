@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "CodingAI",
+      "price": 450,
+      "image": "images/a.png"
+    },
+    {
+      "id": 2,
+      "title": "ChatBot",
+      "price": 100,
+      "image": "images/3c.png"
+    },
+    {
+      "id": 3,
+      "title": "EduAI",
+      "price": 120,
+      "image": "images/4c.png"
+    },
+    {
+      "id": 4,
+      "title": "GuideAI",
+      "price": 1100,
+      "image": "images/5c.png"
+    },
+    {
+      "id": 5,
+      "title": "FinanceAI",
+      "price": 1100,
+      "image": "images/6c.png"
+    },
+    {
+      "id": 6,
+      "title": "HealthGenAI",
+      "price": 1100,
+      "image": "images/7c.png"
+    },
+    {
+      "id": 7,
+      "title": "TestAI",
+      "price": 1100,
+      "image": "images/b.png"
+    }
+  ]
+}
