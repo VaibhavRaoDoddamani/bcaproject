@@ -27,7 +27,7 @@
     {
       "id": 5,
       "title": "FinanceAI",
-      "price": 1500,
+      "price": 80,
       "image": "6c.png"
     },
     {
@@ -45,5 +45,6 @@
   ]
 
 }
+
 
 
